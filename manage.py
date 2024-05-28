@@ -25,3 +25,8 @@ if __name__ == '__main__':
 # is this tracking
 print("hi")
 
+print("hi")
+print("hi")
+print("hi")
+print("hola")
+apple2 = 10
